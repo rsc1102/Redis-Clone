@@ -9,7 +9,7 @@ git clone
 
 Move to the directory and start the server using the command:
 ```bash
-cd redis-clone
+cd Redis-Clone
 go run .
 ```
 
